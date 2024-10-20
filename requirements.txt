@@ -28,7 +28,7 @@ matplotlib==3.9.2
 mdurl==0.1.2
 mlxtend==0.20.0
 narwhals==1.9.4
-numpy
+numpy>=1.23.5
 packaging==24.1
 pandas
 pillow==11.0.0
