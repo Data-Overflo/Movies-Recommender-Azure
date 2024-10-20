@@ -28,9 +28,9 @@ matplotlib==3.9.2
 mdurl==0.1.2
 mlxtend==0.20.0
 narwhals==1.9.4
-numpy==1.23.2
+numpy
 packaging==24.1
-pandas==2.2.3
+pandas
 pillow==11.0.0
 protobuf==3.20.3
 pyarrow==17.0.0
@@ -44,8 +44,8 @@ referencing==0.35.1
 requests==2.32.3
 rich==13.9.2
 rpds-py==0.20.0
-scikit-learn==1.1.2
-scipy==1.14.1
+scikit-learn
+scipy
 seaborn==0.13.2
 semver==3.0.2
 six==1.16.0
